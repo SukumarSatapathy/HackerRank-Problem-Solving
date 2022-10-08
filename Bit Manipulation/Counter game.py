@@ -8,7 +8,6 @@ import sys
 
 #
 # Complete the 'counterGame' function below.
-#
 # The function is expected to return a STRING.
 # The function accepts LONG_INTEGER n as parameter.
 #
